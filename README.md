@@ -129,7 +129,7 @@ Antibody tests for COVID-19 are available through healthcare providers and labor
 
 ## **What do your results mean?**
 
-# * If you test positive
+##  If you test positive
    * A positive test result shows you may have antibodies from an infection with the virus that causes COVID-19, or possibly from infection with a related virus from the same family of viruses (called coronavirus), such as one that causes the common cold.
    * We do not know yet if having antibodies to the virus that causes COVID-19 can protect someone from getting infected again or, if they do, how long this protection might last.
    * Talk with your healthcare provider about your test result and the type of test you took to understand what your result means. Your provider may suggest you take a second type of antibody test to see if the first test was accurate.    
@@ -141,7 +141,7 @@ Antibody tests for COVID-19 are available through healthcare providers and labor
    * An antibody (blood) test cannot tell if you are currently sick with COVID-19.
    * You might test positive for antibodies even if you never had symptoms of COVID-19. This can happen if you had an infection without symptoms (also called an asymptomatic infection).
 
-## * **If you test negative**
+##  **If you test negative**
    * You may not have had COVID-19 before. Talk with your healthcare provider about your test result and the type of test you took to understand what your result means.
    * You could still have a current infection.
    * The test may be negative because it typically takes 1 to 3 weeks after infection to develop antibodies. It’s possible you could still get sick if you have been exposed to the virus recently. This means you could still spread the virus.
