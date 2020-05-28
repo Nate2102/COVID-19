@@ -120,7 +120,7 @@ Antibody tests check your blood by looking for antibodies, which can show if you
 
 Depending on when someone was infected and the timing of the test, the test may not find antibodies in someone with a current COVID-19 infection. Antibody tests should not be used to diagnose COVID-19. To see if you are currently infected, you need a [viral test](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html). Viral tests identify the virus in samples from your respiratory system, such as swabs from the inside of your nose.
 
-**If you test positive or negative for COVID-19 on a viral or an antibody test, you still should take preventive measures to [protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).
+**If you test positive or negative** for COVID-19 on a viral or an antibody test, you still should take preventive measures to [protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).
 
 **We do not know yet if people who recover from COVID-19 can get infected again. Scientists are working to understand this.**
 
