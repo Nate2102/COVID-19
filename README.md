@@ -136,7 +136,7 @@ Antibody tests for COVID-19 are available through healthcare providers and labor
    * You should continue to [protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html) since it’s possible you could get infected with the virus again.
    * **If you have no symptoms**, you likely do not have an active infection and no additional follow-up is needed.
    * If you work in a job where you wear personal protective equipment (PPE), continue wearing PPE.
-   * **If you have [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) and meet other [criteria for testing](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-criteria.html), you would need another type of test called a [viral test](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html). This test identifies the virus that causes COVID-19.
+   * **If you have [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)** and meet other [criteria for testing](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-criteria.html), you would need another type of test called a [viral test](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html). This test identifies the virus that causes COVID-19.
    * This test uses respiratory samples, such as a swab from inside your nose, to confirm COVID-19.
    * An antibody (blood) test cannot tell if you are currently sick with COVID-19.
    * You might test positive for antibodies even if you never had symptoms of COVID-19. This can happen if you had an infection without symptoms (also called an asymptomatic infection).
