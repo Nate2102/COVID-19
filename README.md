@@ -166,7 +166,7 @@ For more information:
 * [Insight into FDA Revised Policy on Antibody Tests: Prioritizing Access and Accuracy](https://www.fda.gov/news-events/fda-voices/insight-fdas-revised-policy-antibody-tests-prioritizing-access-and-accuracy)
 * [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
 
-**CDC is conducting [serologic surveillance](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/serology-surveillance/index.html)
+**CDC is conducting [serologic surveillance](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/serology-surveillance/index.html)**
 
 CDC is looking at [data from antibody tests](https://www.cdc.gov/coronavirus/2019-ncov/lab/serology-testing.html) to estimate the total number of people who have been infected with the virus that causes COVID-19 in the United States. CDC is also using antibody testing to learn more about how the body’s immune system responds to the virus and to explore how the virus spreads among people exposed to it. The information CDC is looking at comes from many groups, including blood donors and household contacts of people who had symptoms and were diagnosed with COVID-19.
 
